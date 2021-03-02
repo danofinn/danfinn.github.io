@@ -2,4 +2,5 @@ title: Danny Finn
 description: Graduate researcher at University at Buffalo.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: 
+#jekyll-theme-cayman
