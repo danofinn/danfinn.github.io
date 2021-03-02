@@ -1,1 +1,7 @@
+title                    : "Danny Finn"
+name                     : &name "Danny Finn"
+description              : &description "Graduate researcher at University at Buffalo."
+url                      : https://danofinn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "danofinn/danfinn.github.io"
 theme: jekyll-theme-cayman
