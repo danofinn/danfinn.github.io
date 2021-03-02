@@ -1,4 +1,5 @@
-title                    : "Danny Finn"
-name                     : &name "Danny Finn"
-description              : &description "Graduate researcher at University at Buffalo."
+title: Danny Finn
+description: Graduate researcher at University at Buffalo.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
